@@ -14,7 +14,8 @@ I am doing Theoretical Machine Learning, Optimization, Probability, Statistics.\
 My current research is focused on Online Learning, Bandits Theory and recently, some aspects of Game Theory. I like theoretical guarantees (but also do some numerical experiments from time to time).
 
 I am always happy to learn new things and I am interested in everything.\
-[CV Here][CV]{:target="_blank"}!
+[CV Here][CV]{:target="_blank"}!\
+(If you see someone sleeping on the floor in a conference, that's probably me, don't hesitate to wake me up to discuss.)
 
 [CAIL]: https://ailab.criteo.com/
 [JA]: https://www.julyanarbel.com/
@@ -27,7 +28,12 @@ I am always happy to learn new things and I am interested in everything.\
 
 Events/Talks
 ======
-- International Conference on Machine Learning (ICML2024), 21/07/2024-27/07/2024
+Future: Probably ALT2024\
+Past:
+- NeurIPS, 10/12/2024-15/12/2024
+- NeurIPS @ Paris, 04/12/2024-05/12/2024
+- Invited talk at University of Amsterdam about Submodular Optimization with Bandit feedbacks, 21/10/2024
+- ICML2024, 21/07/2024-27/07/2024
 - Journées de Statistique de la SFdS, 27/05/2024-31/05/2024
 - Reinforcement Learning Summer School, 26/06/2023-05/07/2023
 
