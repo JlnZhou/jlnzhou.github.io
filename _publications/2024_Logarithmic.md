@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2024_Logarithmic
 excerpt: ''
-date: 2024/01/01
-venue: 'ALT 2024'
+date: 2025/01/01
+venue: 'ALT 2025'
 slidesurl: ''
 paperurl: 'https://www.arxiv.org/abs/2410.08578'
 citation: 'Zhou, J., Gaillard, P., Rahier, T., & Arbel, J. (2024). Logarithmic Regret for Unconstrained Submodular Maximization Stochastic Bandit. arXiv preprint arXiv:2410.08578.'
